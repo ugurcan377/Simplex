@@ -1,0 +1,5 @@
+A Python2 +Qt Script that implements simplex method (an lineer programming algorithm)
+Only calculates the maximization problems.
+Licenced with GPLv3
+
+Written for Kocaeli University Computer Engineering Department Operations Research Class
